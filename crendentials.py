@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
-"""Two factor utility to generate one-time passwords or QR codes.  
-"""
+"""Two factor utility to generate one-time passwords or QR codes."""
 
 from __future__ import print_function
 from netrc import netrc
