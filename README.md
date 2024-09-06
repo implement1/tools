@@ -1,0 +1,1 @@
+Python script to automate the configuration of AWS CLI profiles for multiple AWS accounts, set up Kubernetes configurations for EKS clusters, and handles region-specific AWS profiles.
