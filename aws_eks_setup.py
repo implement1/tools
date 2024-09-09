@@ -23,7 +23,7 @@ orgs = {
 
 
 regional_accs = {
-    "prod": ["us-east-1", "eu-west-1", "eu-central-1", "af-south-1", "me-south-1"],
+    "prod": ["us-east-1",  "us-east-2", "eu-west-1", "eu-central-1", "af-south-1", "me-south-1"],
     "stage": ["us-east-1", "eu-west-1", "eu-central-1", "af-south-1", "me-south-1"],
     "dev": ["us-east-1", "eu-west-1"],
 }
